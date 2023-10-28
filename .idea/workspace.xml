@@ -72,9 +72,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.P1328">
-    <configuration name="P1328" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.P1328" />
+  <component name="RunManager" selected="应用程序.D1028">
+    <configuration name="D1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.D1026" />
       <module name="java-code" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1324" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.Problem1324" />
+    <configuration name="D1027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.D1027" />
       <module name="java-code" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +99,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1325" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.Problem1325" />
+    <configuration name="D1028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.D1028" />
+      <module name="java-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighPrecisionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.HighPrecisionCalculator" />
+      <module name="java-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.PrefixSum" />
       <module name="java-code" />
       <extension name="coverage">
         <pattern>
@@ -114,9 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.P1328" />
-        <item itemvalue="应用程序.Problem1325" />
-        <item itemvalue="应用程序.Problem1324" />
+        <item itemvalue="应用程序.D1028" />
+        <item itemvalue="应用程序.PrefixSum" />
+        <item itemvalue="应用程序.HighPrecisionCalculator" />
+        <item itemvalue="应用程序.D1027" />
+        <item itemvalue="应用程序.D1026" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +161,16 @@
       <workItem from="1696572939343" duration="11000" />
       <workItem from="1696603920068" duration="388000" />
       <workItem from="1696604417758" duration="5463000" />
-      <workItem from="1696649179536" duration="10491000" />
+      <workItem from="1696649179536" duration="10937000" />
+      <workItem from="1696858476223" duration="4773000" />
+      <workItem from="1698145039313" duration="4313000" />
+      <workItem from="1698203982154" duration="3306000" />
+      <workItem from="1698233817797" duration="4510000" />
+      <workItem from="1698309234591" duration="2600000" />
+      <workItem from="1698373777920" duration="1850000" />
+      <workItem from="1698386430972" duration="7828000" />
+      <workItem from="1698412644137" duration="2935000" />
+      <workItem from="1698451178547" duration="3609000" />
     </task>
     <servers />
   </component>
